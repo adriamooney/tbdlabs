@@ -377,3 +377,7 @@ header.masthead {
   border: 2px solid #3099D0;
   padding: 3px;
 }
+.sidebar h4 {
+  font-size:1.1rem;
+  font-weight:700;
+}
