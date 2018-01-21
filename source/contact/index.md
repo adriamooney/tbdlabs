@@ -5,7 +5,14 @@ date: 2018-01-11 18:31:02
 
 ### MAKE CONTACT
 
-**Bear Valley Snowmobile** 132 Bear Valley Road (inside the Bear Valley Transportation Center) Bear Valley, CA 95223 Toll Free: 877.HWY.4.FUN Main Phone: 209.753.2323 Fax: 209.753.2000 Email: [info@bvsnowmobile.com](mailto:info@bvsnowmobile.com) [www.bvsnowmobile.com](http://www.bvsnowmobile.com)
+** Bear Valley Snowmobile **
+132 Bear Valley Road (inside the Bear Valley Transportation Center)  
+Bear Valley, CA 95223  
+Toll Free: 877.HWY.4.FUN 
+Main Phone: 209.753.2323   
+Fax: 209.753.2000   
+Email: [info@bvsnowmobile.com](mailto:info@bvsnowmobile.com) [
+www.bvsnowmobile.com](http://www.bvsnowmobile.com)
 
 ### Hours
 
@@ -24,7 +31,7 @@ Open everyday during the snowmobile season, 9am to 4pm
 
 ### Employment Opportunities
 
-Bear Valley Snowmobile is always looking for energetic and enthusiastic people to join our staff both inside and out on the trails. If you are interested in applying fill out the [Employee Application](http://www.bvsnowmobile.com/wordpress_bvs/wp-content/uploads/2017/04/edited_Application_for_Employment.pdf) and email it to info@bvsnowmobile.com or bring it by the shop.
+Bear Valley Snowmobile is always looking for energetic and enthusiastic people to join our staff both inside and out on the trails. If you are interested in applying fill out the [Employee Application](/files/edited_Application_for_Employment.pdf) and email it to info@bvsnowmobile.com or bring it by the shop.
 
 ### Privacy Policy
 

@@ -7,5 +7,5 @@ menu:
   About: /about/
    
 rss: /atom.xml
-favicon: favicon.ico
+favicon: /favicon.ico
 
