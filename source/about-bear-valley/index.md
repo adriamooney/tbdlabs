@@ -49,6 +49,6 @@ Nestled half way between Tahoe and Yosemite, Bear Valley is rich in geologic, na
 *   [Highway 4 Road Report](http://www.dot.ca.gov/hq/roadinfo/sr4) 800.427.ROAD - Always carry chains!
 *   [CNSA - California Nevada Snowmobile Association](http://cnsa.net/)
 *   [California OHV State Sno-Park Map and locations](http://ohv.parks.ca.gov/?page_id=1233)
-*   [Bear Valley Good Neighbor Riding Rules](/files/Release-of-Liability-Form-2018-8.5x11-Version.pdf)
+*   [Bear Valley Good Neighbor Riding Rules](/files/Good_Neighbor_Riding_Rules.pdf)
 
 
