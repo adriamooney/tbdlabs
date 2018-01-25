@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Bear Valley Snowmobile
+title: TBD Labs
 #subtitle: Subtitle goes here
-description: Bear Valley Snowmobile - For the Alpine Experience in Everyone - Bear Valley is a unique snowmobile ONLY community in the wintertime since the roads are closed to drive through traffic after the first big snowfall. There has been a snowmobile shop servicing the Bear Valley community for over 40 years. We are honored to continue this tradition at Bear Valley Snowmobile.
-author: Bear Valley Snowmobile
+description: Web development
+author: Adria Mooney
 language: English
 timezone: America/Los_Angeles
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://bvsnowmobile.com
+url: http://tbdlabs.net
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -72,11 +72,11 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: bvsnowmobile
+theme: bootfolio
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: https://github.com/adriamooney/bvsnowmobile.git
-  branch: master
+# deploy:
+  # type: git
+  # repo: https://github.com/adriamooney/bvsnowmobile.git
+  # branch: master
